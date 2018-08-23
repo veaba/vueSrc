@@ -1,5 +1,5 @@
 // import Vue from '../vueTest'
-import Vue from '../vueMy'
+import Vue from '../vueSource'
 // import Vue from '../vueMy/dist/vue.runtime.esm.js'
 // 应用的是 vue.runtime.esm这个文件
 // vueTest\dist\vue.runtime.esm.js
